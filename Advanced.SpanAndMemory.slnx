@@ -2,4 +2,5 @@
   <Project Path="Task03.ParseString/Task03.ParseString.csproj" />
   <Project Path="Task04.ReadOnlySequence/Task04.ReadOnlySequence.csproj" Id="36e505ed-2062-41d7-b3ec-fb1c431c79dd" />
   <Project Path="Task06.ArrayPooling/Task06.ArrayPooling.csproj" Id="87b4e2a2-9d05-4689-9850-a4e6378dfb46" />
+  <Project Path="Task07.ObjectPool/Task07.ObjectPool.csproj" Id="b82e2ee7-c9b8-4eaf-97ca-80a8accbcdbe" />
 </Solution>
